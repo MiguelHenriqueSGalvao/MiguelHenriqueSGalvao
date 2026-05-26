@@ -43,7 +43,7 @@ if "Disciplina" in interesses or True:
 
 ---
 
-Tecnologias e Ferramentas
+## Tecnologia e Ferramentas
 
 <div align="center">
 
