@@ -21,38 +21,24 @@
 ## Sobre Mim
 
 ```python
-class MiguelHenrique:
+# Quem é Miguel Henrique?
 
-    def __init__(self):
+nome = "Miguel Henrique"
+area = "Tecnologia & Programação"
 
-        self.area = [
-            "Python",
-            "Tecnologia",
-            "Lógica de Programação",
-            "Desenvolvimento Criativo"
-        ]
+conhecimentos = ["Variáveis", "Condicionais", "Listas"]
 
-        self.atualmente_aprendendo = [
-            "Listas e Métodos em Python",
-            "Construção de Lógica",
-            "Boas Práticas no GitHub"
-        ]
+objetivos = [
+    "Dominar Python e sua lógica",
+    "Expandir para HTML, CSS e JavaScript",
+    "Criar projetos que resolvem problemas reais",
+    "Construir uma carreira sólida em tecnologia"
+]
 
-        self.interesses = [
-            "Inovação",
-            "Organização",
-            "Projetos Criativos",
-            "Aprendizado Contínuo"
-        ]
+interesses = ["Inovação", "Organização", "Projetos Criativos"]
 
-        self.mentalidade = [
-            "Disciplina",
-            "Consistência",
-            "Evolução"
-        ]
-
-    def objetivo(self):
-        return "Construir projetos que unem criatividade e tecnologia."
+if "Disciplina" in interesses or True:
+    print("Sempre evoluindo!")
 ```
 
 ---
@@ -64,11 +50,17 @@ class MiguelHenrique:
 <img align="center" alt="Python" height="75" width="85"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
-<img align="center" alt="GitHub" height="75" width="85"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img align="center" alt="HTML" height="75" width="85"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+
+<img align="center" alt="JavaScript" height="75" width="85"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
 <img align="center" alt="VSCode" height="75" width="85"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+
+<img align="center" alt="GitHub" height="75" width="85"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
 </div>
 
@@ -116,15 +108,17 @@ src="https://streak-stats.demolab.com?user=MiguelHenriqueSGalvao&theme=tokyonigh
 ## Mentalidade
 
 ```python
-while alive:
+# Minha jornada
 
-    aprender()
-    melhorar()
-    criar()
-    evoluir()
+estudando = True
+
+if estudando:
+    print("Aprendendo...")
+    print("Melhorando...")
+    print("Evoluindo...")
 ```
 
-> *"Disciplina e consistência constroem resultados que a motivação sozinha não sustenta"*
+> *"Disciplina e consistência constroem resultados que a motivação sozinha não sustenta."*
 
 ---
 
