@@ -18,7 +18,7 @@
 
 ---
 
-# 🚀 Sobre Mim
+## Sobre Mim
 
 ```python
 class MiguelHenrique:
@@ -57,7 +57,7 @@ class MiguelHenrique:
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -86,7 +86,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHenriq
 
 ---
 
-# 🔥 Sequência de Contribuições
+## Sequência de Contribuições
 
 <div align="center">
 
@@ -97,7 +97,7 @@ src="https://streak-stats.demolab.com?user=MiguelHenriqueSGalvao&theme=tokyonigh
 
 ---
 
-# 🌎 Redes Sociais
+## Redes Sociais
 
 <div align="center">
 
@@ -113,7 +113,7 @@ src="https://streak-stats.demolab.com?user=MiguelHenriqueSGalvao&theme=tokyonigh
 
 ---
 
-# ⚡ Mentalidade
+## Mentalidade
 
 ```python
 while alive:
@@ -124,7 +124,7 @@ while alive:
     evoluir()
 ```
 
-> *"Disciplina e consistência batem talento, quando talento não tem disciplina."*
+> *"Disciplina e consistência constroem resultados que a motivação sozinha não sustenta"*
 
 ---
 
